@@ -1,0 +1,11 @@
+{
+    "name": "storage-listener",
+    "npmname": "storage-listener",
+    "umdname": "storage-listener",
+    "username": "i33558493",
+    "type": "ts",
+    "module": "umd,esm,commonjs",
+    "test": null,
+    "lang": "en",
+    "version": "1.6.0"
+}
