@@ -37,12 +37,14 @@
   },
   "devDependencies": {
     "@js-lib/cli": "^1.6.0",
-    "cross-env": "5.2.0",
-    "rimraf": "2.6.2",
-    "es5-shim": "4.5.10",
-    "eslint": "^5.15.1",
+    "@types/globalthis": "^1.0.1",
+    "@types/node": "^18.11.9",
     "@typescript-eslint/eslint-plugin": "^1.4.2",
     "@typescript-eslint/parser": "^1.4.2",
+    "cross-env": "5.2.0",
+    "es5-shim": "4.5.10",
+    "eslint": "^5.15.1",
+    "rimraf": "2.6.2",
     "rollup": "0.57.1",
     "rollup-plugin-babel": "^4.0.3",
     "rollup-plugin-commonjs": "8.3.0",
@@ -53,5 +55,7 @@
     "tslib": "1.9.3",
     "typescript": "3.3.3333"
   },
-  "dependencies": {}
+  "dependencies": {
+    "globalthis": "^1.0.3"
+  }
 }
